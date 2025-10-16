@@ -1,0 +1,4 @@
+name,ttl,type,value
+"m.astore.com","3600","NETLIFY","mastorepk.netlify.app"
+"m.astore.com","3600","NS","1.9.1.0.0.0"
+"www.m.astore.com","3600","NETLIFY","mastorepk.netlify.app"
